@@ -1,2 +1,3 @@
 first file , first line in my working tree 
 second line 
+third line 
